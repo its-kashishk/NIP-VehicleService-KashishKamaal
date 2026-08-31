@@ -1,6 +1,6 @@
 # Vehicle Service Management System
 
-**Pega National Internship Program 2026**
+##Pega National Internship Program 2026
 
 A Pega-based Vehicle Service Management application designed to manage vehicle service requests through a structured case lifecycle—from request creation and inspection to approval and service execution.
 
